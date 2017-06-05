@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Working", "Working\Working.vcxproj", "{2D349CF2-C0B7-49FF-AC94-51F918714CEA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Microsoft_CPP", "Microsoft_CPP\Microsoft_CPP.vcxproj", "{075E5C33-0BFA-4744-A27A-EA2F0C4222DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D349CF2-C0B7-49FF-AC94-51F918714CEA}.Debug|x64.ActiveCfg = Debug|x64
+		{2D349CF2-C0B7-49FF-AC94-51F918714CEA}.Debug|x64.Build.0 = Debug|x64
+		{2D349CF2-C0B7-49FF-AC94-51F918714CEA}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D349CF2-C0B7-49FF-AC94-51F918714CEA}.Debug|x86.Build.0 = Debug|Win32
+		{2D349CF2-C0B7-49FF-AC94-51F918714CEA}.Release|x64.ActiveCfg = Release|x64
+		{2D349CF2-C0B7-49FF-AC94-51F918714CEA}.Release|x64.Build.0 = Release|x64
+		{2D349CF2-C0B7-49FF-AC94-51F918714CEA}.Release|x86.ActiveCfg = Release|Win32
+		{2D349CF2-C0B7-49FF-AC94-51F918714CEA}.Release|x86.Build.0 = Release|Win32
+		{075E5C33-0BFA-4744-A27A-EA2F0C4222DA}.Debug|x64.ActiveCfg = Debug|x64
+		{075E5C33-0BFA-4744-A27A-EA2F0C4222DA}.Debug|x64.Build.0 = Debug|x64
+		{075E5C33-0BFA-4744-A27A-EA2F0C4222DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{075E5C33-0BFA-4744-A27A-EA2F0C4222DA}.Debug|x86.Build.0 = Debug|Win32
+		{075E5C33-0BFA-4744-A27A-EA2F0C4222DA}.Release|x64.ActiveCfg = Release|x64
+		{075E5C33-0BFA-4744-A27A-EA2F0C4222DA}.Release|x64.Build.0 = Release|x64
+		{075E5C33-0BFA-4744-A27A-EA2F0C4222DA}.Release|x86.ActiveCfg = Release|Win32
+		{075E5C33-0BFA-4744-A27A-EA2F0C4222DA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
