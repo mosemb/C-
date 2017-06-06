@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="datatypesedx.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="loops1.cpp">
+    <ClCompile Include="whileloop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

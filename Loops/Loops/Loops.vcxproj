@@ -18,13 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="datatypesedx.cpp" />
-    <ClCompile Include="loops1.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{075E5C33-0BFA-4744-A27A-EA2F0C4222DA}</ProjectGuid>
-    <RootNamespace>Microsoft_CPP</RootNamespace>
+    <ProjectGuid>{5CAE7D04-DD79-4493-B980-D95DFC1019CA}</ProjectGuid>
+    <RootNamespace>Loops</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -113,6 +109,9 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="whileloop.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -19,7 +19,11 @@ int main(int argc , char ** arg) {
 		Months month;
 		int Date;
 
+
+
 	};
+
+	
 
 	struct customer_infor {
 
