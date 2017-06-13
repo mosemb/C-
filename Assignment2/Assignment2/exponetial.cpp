@@ -89,50 +89,49 @@ int sumsnos(vector <double> arr) {
 
 int main(int argc, char ** arg)
 {
+	// Pointers 
+	//int num = 3;
+	//int *pnum = &num;
+	//cout << num << endl << *pnum  <<endl << pnum << endl;
+	//*pnum = 45; // Dereferencing 
+	//cout << *pnum << endl << pnum << endl << num << endl;
+
+
+	// References 
+	int num2 = 3;
+	int &Refnum2 = num2;
+
+	cout << "num2 " << num2 << endl << "Refnum2 " << Refnum2 << endl << &Refnum2 << endl << &num2 << endl;
+
+	Refnum2++;
+
+	cout << "num2 " << num2 << endl << "Refnum2 " << Refnum2 << endl << &Refnum2 << endl << &num2 << endl;
+
 	
+		
+	/*
 	vector <double> myvector;
-	double y; 
+	double y;
 
 	cout << "Enter ints when done enter string x "<< endl;
-	
+
 	while (cin >> y)
 	{
-		myvector.push_back(y);
+	myvector.push_back(y);
 
 	}
-   sumsnos(myvector);
-	
-
-
-
-	
-	
-	
-	
-	
-	/*while (true){
-		
-		if (typeid(cin).name()!= typeid(k).name())
-		{
-			int sumsnos(vector <int > arr);
-			//arr.push_back(y); 
-		}
-		else if (typeid(cin).name() == typeid(k).name())
-		{
-			break;
-		}
-
-	}
+	sumsnos(myvector);
 	*/
+		
 
+
+		/* Uncomment the needed functions to run them below */
+	
+	
+	
+	
 	
 
-	 
-
-	
-
-
-	
     
 	/* 
 
