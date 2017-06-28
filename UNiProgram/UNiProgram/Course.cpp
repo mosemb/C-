@@ -22,7 +22,7 @@ void Course::SetStudent(Student * stu)
 	student = stu;
 }
 
-Student * Course::GetStudent()
+Student *Course::GetStudent()
 {
 	return student;
 }
