@@ -10,7 +10,7 @@ private:
 
 public:
 	Student();
-	Student(string &name, int age, string &course1);
+	Student(const string &name, int age, const string &course);
 	virtual void display() const;
 	virtual ~Student();
 

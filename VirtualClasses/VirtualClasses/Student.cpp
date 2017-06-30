@@ -11,7 +11,7 @@ Student::Student()
 	
 }
 
-Student::Student(string & name, int age, string & course)
+Student::Student(const string & name, int age, const string & course)
 	:Person(name , age) , course(course)
 {
 
