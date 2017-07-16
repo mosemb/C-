@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/LinuxRealTest.dir/main.cpp.o"
+  "CMakeFiles/LinuxRealTest.dir/A.cpp.o"
+  "CMakeFiles/LinuxRealTest.dir/Animal.cpp.o"
   "LinuxRealTest.pdb"
   "LinuxRealTest"
 )

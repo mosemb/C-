@@ -123,6 +123,60 @@ LinuxRealTest/fast:
 	$(MAKE) -f CMakeFiles/LinuxRealTest.dir/build.make CMakeFiles/LinuxRealTest.dir/build
 .PHONY : LinuxRealTest/fast
 
+A.o: A.cpp.o
+
+.PHONY : A.o
+
+# target to build an object file
+A.cpp.o:
+	$(MAKE) -f CMakeFiles/LinuxRealTest.dir/build.make CMakeFiles/LinuxRealTest.dir/A.cpp.o
+.PHONY : A.cpp.o
+
+A.i: A.cpp.i
+
+.PHONY : A.i
+
+# target to preprocess a source file
+A.cpp.i:
+	$(MAKE) -f CMakeFiles/LinuxRealTest.dir/build.make CMakeFiles/LinuxRealTest.dir/A.cpp.i
+.PHONY : A.cpp.i
+
+A.s: A.cpp.s
+
+.PHONY : A.s
+
+# target to generate assembly for a file
+A.cpp.s:
+	$(MAKE) -f CMakeFiles/LinuxRealTest.dir/build.make CMakeFiles/LinuxRealTest.dir/A.cpp.s
+.PHONY : A.cpp.s
+
+Animal.o: Animal.cpp.o
+
+.PHONY : Animal.o
+
+# target to build an object file
+Animal.cpp.o:
+	$(MAKE) -f CMakeFiles/LinuxRealTest.dir/build.make CMakeFiles/LinuxRealTest.dir/Animal.cpp.o
+.PHONY : Animal.cpp.o
+
+Animal.i: Animal.cpp.i
+
+.PHONY : Animal.i
+
+# target to preprocess a source file
+Animal.cpp.i:
+	$(MAKE) -f CMakeFiles/LinuxRealTest.dir/build.make CMakeFiles/LinuxRealTest.dir/Animal.cpp.i
+.PHONY : Animal.cpp.i
+
+Animal.s: Animal.cpp.s
+
+.PHONY : Animal.s
+
+# target to generate assembly for a file
+Animal.cpp.s:
+	$(MAKE) -f CMakeFiles/LinuxRealTest.dir/build.make CMakeFiles/LinuxRealTest.dir/Animal.cpp.s
+.PHONY : Animal.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +213,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LinuxRealTest"
+	@echo "... A.o"
+	@echo "... A.i"
+	@echo "... A.s"
+	@echo "... Animal.o"
+	@echo "... Animal.i"
+	@echo "... Animal.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

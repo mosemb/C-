@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/root/CLionProjects/gitrepos/C-/LinuxRealTest/A.cpp" "/root/CLionProjects/gitrepos/C-/LinuxRealTest/cmake-build-debug/CMakeFiles/LinuxRealTest.dir/A.cpp.o"
+  "/root/CLionProjects/gitrepos/C-/LinuxRealTest/Animal.cpp" "/root/CLionProjects/gitrepos/C-/LinuxRealTest/cmake-build-debug/CMakeFiles/LinuxRealTest.dir/Animal.cpp.o"
   "/root/CLionProjects/gitrepos/C-/LinuxRealTest/main.cpp" "/root/CLionProjects/gitrepos/C-/LinuxRealTest/cmake-build-debug/CMakeFiles/LinuxRealTest.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

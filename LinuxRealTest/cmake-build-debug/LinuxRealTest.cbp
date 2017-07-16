@@ -84,6 +84,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/root/CLionProjects/gitrepos/C-/LinuxRealTest/A.cpp">
+			<Option target="LinuxRealTest"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/gitrepos/C-/LinuxRealTest/A.h">
+			<Option target="LinuxRealTest"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/gitrepos/C-/LinuxRealTest/Animal.cpp">
+			<Option target="LinuxRealTest"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/gitrepos/C-/LinuxRealTest/Animal.h">
+			<Option target="LinuxRealTest"/>
+		</Unit>
 		<Unit filename="/root/CLionProjects/gitrepos/C-/LinuxRealTest/main.cpp">
 			<Option target="LinuxRealTest"/>
 		</Unit>

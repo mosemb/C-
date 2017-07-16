@@ -6,9 +6,29 @@
 
 #IncludeRegexTransform: 
 
+/root/CLionProjects/gitrepos/C-/LinuxRealTest/A.cpp
+A.h
+/root/CLionProjects/gitrepos/C-/LinuxRealTest/A.h
+
+/root/CLionProjects/gitrepos/C-/LinuxRealTest/A.h
+
+/root/CLionProjects/gitrepos/C-/LinuxRealTest/Animal.cpp
+Animal.h
+/root/CLionProjects/gitrepos/C-/LinuxRealTest/Animal.h
+iostream
+-
+string
+-
+
+/root/CLionProjects/gitrepos/C-/LinuxRealTest/Animal.h
+string
+-
+
 /root/CLionProjects/gitrepos/C-/LinuxRealTest/main.cpp
 iostream
 -
-cstdio
--
+A.h
+/root/CLionProjects/gitrepos/C-/LinuxRealTest/A.h
+Animal.h
+/root/CLionProjects/gitrepos/C-/LinuxRealTest/Animal.h
 

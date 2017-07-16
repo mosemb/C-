@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/LinuxRealTest.dir/main.cpp.o  -o LinuxRealTest 
+/usr/bin/c++   -g   CMakeFiles/LinuxRealTest.dir/main.cpp.o CMakeFiles/LinuxRealTest.dir/A.cpp.o CMakeFiles/LinuxRealTest.dir/Animal.cpp.o  -o LinuxRealTest 

@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /root/CLionProjects/gitrepos/C-/LinuxRealTest/cmake-build-deb
 CMakeFiles/LinuxRealTest.dir/all:
 	$(MAKE) -f CMakeFiles/LinuxRealTest.dir/build.make CMakeFiles/LinuxRealTest.dir/depend
 	$(MAKE) -f CMakeFiles/LinuxRealTest.dir/build.make CMakeFiles/LinuxRealTest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/root/CLionProjects/gitrepos/C-/LinuxRealTest/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target LinuxRealTest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/root/CLionProjects/gitrepos/C-/LinuxRealTest/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target LinuxRealTest"
 .PHONY : CMakeFiles/LinuxRealTest.dir/all
 
 # Include target in all.
@@ -76,7 +76,7 @@ all: CMakeFiles/LinuxRealTest.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LinuxRealTest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/CLionProjects/gitrepos/C-/LinuxRealTest/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /root/CLionProjects/gitrepos/C-/LinuxRealTest/cmake-build-debug/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LinuxRealTest.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /root/CLionProjects/gitrepos/C-/LinuxRealTest/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/LinuxRealTest.dir/rule
