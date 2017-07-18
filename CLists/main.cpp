@@ -1,6 +1,7 @@
 #include <iostream>
 #include <list>
 #include <set>
+#include <map>
 #include <string>
 
 #include <utility>
@@ -55,6 +56,33 @@ int main() {
     for(string s:pa){  // Sets print out stuff in alphabetical order
         printf(" %s\n ",s.c_str());
     }
+    cout << "                                           "<<endl;
+    cout << "Maps______________________________________ ORDERED KEY Value Pairs"<<endl;
+
+    map<string, string> strmap = {{"James" , "Dj"} , {"Ricky ", "Boxer "},
+                              {"Micheal", "Musician",} ,{"Hosea " , "Minister"}};
+
+    for(int i = 1; i <= strmap.size();  ++i){
+        cout << i << endl;
+    }
+
+    for (auto pn: strmap){
+        cout << pn.first << " is a " << pn.second << endl;
+    }
+
+    printf("The size of the map is %d\n", strmap.size());
+    cout << "Accessing elements in a map "<<endl;
+    printf ("Micheal is a  %s\n", (strmap["Micheal"]).c_str());
+    //printf ("Ricky is a  %s\n", strmap.at("Ricky").c_str());
+
+    cout <<"After Insert ____________________________"<< endl;
+    // insert an element in the the map
+    strmap.insert({"Ellen ", " President"});
+    for (auto pn: strmap){
+        cout << pn.first << " is a " << pn.second << endl;
+    }
+
+    
 
 
 
