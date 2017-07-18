@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/StandardTemplateLibrary.dir/main.cpp.o  -o StandardTemplateLibrary 
