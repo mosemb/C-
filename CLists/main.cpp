@@ -2,6 +2,7 @@
 #include <list>
 #include <set>
 #include <map>
+#include <stack>
 #include <string>
 
 #include <utility>
@@ -78,11 +79,47 @@ int main() {
     cout <<"After Insert ____________________________"<< endl;
     // insert an element in the the map
     strmap.insert({"Ellen ", " President"});
+
+    printf("The size of the map is %d\n", strmap.size());
+    cout << " ";
+    cout << " ";
+
+
+
     for (auto pn: strmap){
         cout << pn.first << " is a " << pn.second << endl;
     }
 
-    
+    cout << " Find and Erase and element " << endl;
+    auto im= strmap.find("James");
+    if(im!=strmap.end()){
+        cout << "Found " << im->first << ":" << im->second << endl;
+        strmap.erase(im);
+        cout << "The new size is " << strmap.size() << endl;
+    }
+    else {
+        cout << "Not found " << endl;
+    }
+
+    for (auto pn:strmap){
+        cout << pn.first << "is a " << pn.second << endl;
+    }
+
+    // Stack
+    list <int>lh = {1, 2, 5, 7, 9, 10 , 45 , 54};
+    // Stack is often initialized from a given container
+
+    stack<int , list<int>> sta(lh);
+    stack <int , list<int>> sta(lh);
+    cout << "THe size of the stack is " <<sta.size();
+
+
+
+
+
+
+
+
 
 
 

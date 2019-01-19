@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/ArraysLinkedListsRecussion/GameEntry.cpp
+GameEntry.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/ArraysLinkedListsRecussion/GameEntry.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/ArraysLinkedListsRecussion/GameEntry.h
+string
+-
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/ArraysLinkedListsRecussion/InsertionSort.cpp
+InsertionSort.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/ArraysLinkedListsRecussion/InsertionSort.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/ArraysLinkedListsRecussion/InsertionSort.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/ArraysLinkedListsRecussion/Scores.cpp
+Scores.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/ArraysLinkedListsRecussion/Scores.h
+iostream
+-
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/ArraysLinkedListsRecussion/Scores.h
+GameEntry.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/ArraysLinkedListsRecussion/GameEntry.h
+exception
+-
+stdexcept
+-
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/ArraysLinkedListsRecussion/main.cpp
+iostream
+-
+vector
+-
+

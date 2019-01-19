@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/CircLinkedLIsts/CNode.cpp
+CNode.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/CircLinkedLIsts/CNode.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/CircLinkedLIsts/CNode.h
+string
+-
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/CircLinkedLIsts/ClinkedList.cpp
+iostream
+-
+ClinkedList.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/CircLinkedLIsts/ClinkedList.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/CircLinkedLIsts/ClinkedList.h
+CNode.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/CircLinkedLIsts/CNode.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/CircLinkedLIsts/main.cpp
+iostream
+-
+ClinkedList.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/CircLinkedLIsts/ClinkedList.h
+

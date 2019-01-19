@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter8/CompleteTree/CompleteBinaryTree.cpp
+CompleteBinaryTree.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter8/CompleteTree/CompleteBinaryTree.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter8/CompleteTree/CompleteBinaryTree.h
+vector
+-
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter8/CompleteTree/main.cpp
+iostream
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter9/Maps/Entry.cpp
+Entry.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter9/Maps/Entry.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter9/Maps/Entry.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter9/Maps/main.cpp
+iostream
+-
+

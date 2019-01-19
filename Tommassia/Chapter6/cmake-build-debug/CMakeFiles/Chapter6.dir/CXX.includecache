@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter6/ArrayVector.cpp
+cstdlib
+-
+iostream
+-
+ArrayVector.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter6/ArrayVector.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter6/ArrayVector.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter6/NodeList.cpp
+NodeList.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter6/NodeList.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter6/NodeList.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter6/main.cpp
+iostream
+-
+

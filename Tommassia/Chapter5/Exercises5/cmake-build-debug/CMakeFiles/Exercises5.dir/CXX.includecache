@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/LinkedLists/Snode.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter5/Exercises5/LinkedStack2.cpp
+LinkedStack2.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter5/Exercises5/LinkedStack2.h
+iostream
+-
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter5/Exercises5/LinkedStack2.h
+SlinkedList.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter5/Exercises5/SlinkedList.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter5/Exercises5/SlinkedList.cpp
+cstdlib
+-
+SlinkedList.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter5/Exercises5/SlinkedList.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter5/Exercises5/SlinkedList.h
+../../Chapter3/LinkedLists/Snode.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/LinkedLists/Snode.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter5/Exercises5/main.cpp
+iostream
+-
+stack
+-
+

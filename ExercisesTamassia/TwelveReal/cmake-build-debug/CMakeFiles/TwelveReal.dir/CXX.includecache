@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/gitrepos/C-/ExercisesTamassia/TwelveReal/CreditCard.cpp
+CreditCard.h
+/root/CLionProjects/gitrepos/C-/ExercisesTamassia/TwelveReal/CreditCard.h
+
+/root/CLionProjects/gitrepos/C-/ExercisesTamassia/TwelveReal/CreditCard.h
+string
+-
+
+/root/CLionProjects/gitrepos/C-/ExercisesTamassia/TwelveReal/main.cpp
+iostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/TamasiaDataStructures_Exercise1.dir/main.cpp.o  -o TamasiaDataStructures_Exercise1 

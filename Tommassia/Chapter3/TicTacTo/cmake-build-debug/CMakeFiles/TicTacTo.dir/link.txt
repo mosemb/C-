@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/TicTacTo.dir/main.cpp.o CMakeFiles/TicTacTo.dir/TicTacToe.cpp.o  -o TicTacTo 

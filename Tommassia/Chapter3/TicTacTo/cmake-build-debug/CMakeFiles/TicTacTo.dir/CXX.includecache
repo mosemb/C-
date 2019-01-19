@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/TicTacTo/TicTacToe.cpp
+TicTacToe.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/TicTacTo/TicTacToe.h
+iostream
+-
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/TicTacTo/TicTacToe.h
+
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/TicTacTo/main.cpp
+iostream
+-
+TicTacToe.h
+/root/CLionProjects/gitrepos/C-/Tommassia/Chapter3/TicTacTo/TicTacToe.h
+

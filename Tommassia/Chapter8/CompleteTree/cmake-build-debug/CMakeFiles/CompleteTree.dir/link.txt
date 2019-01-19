@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/CompleteTree.dir/main.cpp.o CMakeFiles/CompleteTree.dir/CompleteBinaryTree.cpp.o  -o CompleteTree 

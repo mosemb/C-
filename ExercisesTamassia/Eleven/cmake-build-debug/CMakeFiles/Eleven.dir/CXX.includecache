@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/gitrepos/C-/ExercisesTamassia/Eleven/Flower.cpp
+Flower.h
+/root/CLionProjects/gitrepos/C-/ExercisesTamassia/Eleven/Flower.h
+iostream
+-
+
+/root/CLionProjects/gitrepos/C-/ExercisesTamassia/Eleven/Flower.h
+string
+-
+
+/root/CLionProjects/gitrepos/C-/ExercisesTamassia/Eleven/main.cpp
+iostream
+-
+Flower.h
+/root/CLionProjects/gitrepos/C-/ExercisesTamassia/Eleven/Flower.h
+

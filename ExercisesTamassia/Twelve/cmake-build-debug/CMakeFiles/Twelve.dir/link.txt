@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Twelve.dir/main.cpp.o CMakeFiles/Twelve.dir/CreditCard.cpp.o  -o Twelve 

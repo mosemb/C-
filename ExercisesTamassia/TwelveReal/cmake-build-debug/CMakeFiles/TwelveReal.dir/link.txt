@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/TwelveReal.dir/main.cpp.o CMakeFiles/TwelveReal.dir/CreditCard.cpp.o  -o TwelveReal 

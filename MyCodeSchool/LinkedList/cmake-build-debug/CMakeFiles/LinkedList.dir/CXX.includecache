@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/gitrepos/C-/MyCodeSchool/LinkedList/Link.cpp
+cstdio
+-
+Link.h
+/root/CLionProjects/gitrepos/C-/MyCodeSchool/LinkedList/Link.h
+
+/root/CLionProjects/gitrepos/C-/MyCodeSchool/LinkedList/Link.h
+Node.h
+/root/CLionProjects/gitrepos/C-/MyCodeSchool/LinkedList/Node.h
+
+/root/CLionProjects/gitrepos/C-/MyCodeSchool/LinkedList/Node.cpp
+Node.h
+/root/CLionProjects/gitrepos/C-/MyCodeSchool/LinkedList/Node.h
+
+/root/CLionProjects/gitrepos/C-/MyCodeSchool/LinkedList/Node.h
+
+/root/CLionProjects/gitrepos/C-/MyCodeSchool/LinkedList/main.cpp
+iostream
+-
+Link.h
+/root/CLionProjects/gitrepos/C-/MyCodeSchool/LinkedList/Link.h
+
